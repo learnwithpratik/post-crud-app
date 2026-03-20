@@ -1,12 +1,33 @@
-# React + Vite
+# 🚀 Post CRUD App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **React-based CRUD application** that allows users to create, read, update, and delete posts seamlessly. This project demonstrates core frontend concepts and state management using only `useState`.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Overview
 
-## Expanding the ESLint configuration
+This project is a simple implementation of the **CRUD (Create, Read, Update, Delete)** concept. It mimics basic functionality of social media or blogging platforms where users can manage posts dynamically.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 📝 Create new posts  
+- 📖 View all posts  
+- ✏️ Edit existing posts  
+- 🗑️ Delete posts  
+- ⚡ Real-time UI updates  
+- 🎯 Clean and minimal UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js  
+- **State Management:** useState  
+- **Styling:** CSS / Tailwind CSS  
+- **Build Tool:** Vite / Create React App  
+
+---
+
+## 📂 Project Structure
