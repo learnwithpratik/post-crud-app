@@ -31,3 +31,17 @@ This project is a simple implementation of the **CRUD (Create, Read, Update, Del
 ---
 
 ## 📂 Project Structure
+post-crud-app/
+│
+├── src/
+│ ├── components/
+│ │ ├── PostForm.jsx
+│ │ ├── PostList.jsx
+│ │ └── PostItem.jsx
+│ │
+│ ├── App.jsx
+│ └── main.jsx
+│
+├── public/
+├── package.json
+└── README.md
